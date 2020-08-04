@@ -1,14 +1,17 @@
 ---
 layout:     post
-title:      "Example Post"
-subtitle:   "Example Subtitle"
-date:       2020-07-31
+title:      "我们正年轻"
+subtitle:   "Bounce Factory反弹工厂"
+date:       2019-12-13
 author:     "Fred"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/2019_12_13_img1.jpeg"
 tags:
-    - TestTag#1
-    - TestTag#233
+    - Outing
+    - Keep Fit
 ---
 
 
-Test post contents
+12月13日
+天正蓝 风正暖 
+我们正年轻
+
