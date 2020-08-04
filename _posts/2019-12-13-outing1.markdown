@@ -20,5 +20,5 @@ tags:
 
 ## 照片
 
-![](img/2019_12_13_img2.jpeg "test photo")
+![](/img/2019_12_13_img2.jpeg "test photo")
 
