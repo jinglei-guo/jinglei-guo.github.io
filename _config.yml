@@ -68,7 +68,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Our Memory Colletions"
+sidebar-about-description: "This is Edward Team from IBM CDL GSSC."
 sidebar-avatar: /img/teamphoto.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
