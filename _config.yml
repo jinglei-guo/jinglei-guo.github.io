@@ -24,7 +24,7 @@ github_username:    jinglei-guo
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 3
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -82,7 +82,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Test Friends",
-        href: "#"
+        title: "This Section is used to provide links of Friends' Blog",
+        href: "https://www.baidu.com"
     }    
 ]
